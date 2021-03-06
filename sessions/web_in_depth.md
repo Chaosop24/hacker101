@@ -12,6 +12,8 @@ What you'll learn
 - Cookie security
 - HTML parsing
 - MIME sniffing
+- chaos
+-
 - Encoding sniffing
 - Same-Origin Policy
 - CSRF (Cross-Site Request Forgery)
